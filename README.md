@@ -1,4 +1,4 @@
-# Furnite World
+# Furniture World
 Currently working on this project which is an e-commerece app. It will have serveral fully functional services such as stripes to use for payment methods.
 # Getting Started with Create React App
 
