@@ -1,3 +1,5 @@
+#Furnite World
+Currently working on this project which is an e-commerece app. It will have serveral fully functional services such as stripes to use for payment methods.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
